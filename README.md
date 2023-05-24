@@ -11,7 +11,9 @@ Cochlear implants have revolutionized the field of auditory prosthetics by provi
 
 The goal of this thesis project is to conduct a comprehensive simulation study of different cochlear implant stimulation protocols. By using computational models and simulations, we aim to investigate the impact of various parameters, such as electrode placement, stimulation levels, and pulse characteristics, on the perception of sound in cochlear implant users. Furthermore, we will explore how these findings can be applied to improve surgical planning for cochlear implantation procedures.
 
-[Description of the state of art performed during this bachelor thesis](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/blob/main/Foto%20pipeline.png)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8c12b328-103b-4ab2-a4d6-c2061df92f4b)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/7668d2eb-0d22-475f-ba36-a49952e7c241)
+
 
 ## Repository Structure
 This repository contains the following resources:
@@ -42,7 +44,7 @@ This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creativ
 [Prueba](## Introduction)
 
 ## References
-Figure 8 in: Dejea i Velardo, Hèctor. “Simulation study of cochlear implants stimulation protocols and its application to surgical planning.” (2015)
+
 
 
 
