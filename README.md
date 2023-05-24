@@ -14,13 +14,13 @@ The goal of this thesis project is to conduct a comprehensive simulation study o
 ## Repository Structure
 This repository contains the following resources:
 
-**Code:**  The [code](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/edit/main/README.md#repository-structure) directory consists of the source code used for the simulations and data analysis. It includes scripts written in Python and any necessary dependencies.
+**Code:**  The `code` directory consists of the source code used for the simulations and data analysis. It includes scripts written in Python and any necessary dependencies.
 
 
  **Data**: The `data` directory contains the datasets used in the simulation study. This includes anatomical models, electrode configurations, and other relevant data files.
  
  
-**Results**: The `<results>` directory contains the outcomes of the simulations and analysis. It includes visualizations, graphs, and any statistical findings obtained during the research.
+**Results**: The `results` directory contains the outcomes of the simulations and analysis. It includes visualizations, graphs, and any statistical findings obtained during the research.
 
 
 **Documentation**: The `documentation` directory consists of additional documentation related to the project, such as the thesis paper, research methodology, and any supplementary materials.
@@ -30,14 +30,14 @@ This repository contains the following resources:
 To replicate the simulations or explore the findings of this project, please refer to the specific instructions provided in the respective directories. Make sure to have the required dependencies installed and follow the guidelines for proper data handling and analysis.
 
 ## Code
-asdfdadfa
+The code that is published on this repository is the sample code that we can find on the home page of Github, since I couldn't have any access to the code used for performing the different simulations.
 
 ## Contributions
 Contributions to this project are welcome. If you would like to contribute or have any suggestions, please feel free to open an issue or submit a pull request. Your input and feedback are highly appreciated.
 
 ## License
 This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Please review the license file for more details.
-
+[Prueba](## Introduction)
 ## Contact
 If you have any questions or inquiries regarding this project, please don't hesitate to contact me at carlos.perezdearenaza01@estudiant.upf.edu. I am more than happy to discuss any aspects of this research.
 
