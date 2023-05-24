@@ -40,6 +40,13 @@ Contributions to this project are welcome. If you would like to contribute or ha
 ## License
 This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Please review the license file for more details.
 [Prueba](## Introduction)
+
+## References
+Figure 8 in: Dejea i Velardo, Hèctor. “Simulation study of cochlear implants stimulation protocols and its application to surgical planning.” (2015)
+
+
+
+
 ## Contact
 If you have any questions or inquiries regarding this project, please don't hesitate to contact me at carlos.perezdearenaza01@estudiant.upf.edu. I am more than happy to discuss any aspects of this research.
 
