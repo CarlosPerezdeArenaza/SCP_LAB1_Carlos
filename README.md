@@ -4,6 +4,7 @@
 Welcome to the repository for the bachelor's degree thesis titled "Simulation Study of Cochlear Implants Stimulation Protocols and Its Application to Surgical Planning.", that was performed by Hector Dejea i Velardo on 2015.
 This readme file provides an overview of the project, its goals, and the resources available in this repository.
 
+<a name="Introduction" />
 
 ## Introduction
 Cochlear implants have revolutionized the field of auditory prosthetics by providing a solution for individuals with severe to profound hearing loss. These implantable devices bypass the damaged parts of the inner ear and stimulate the auditory nerve directly, allowing users to perceive sound. However, the optimal stimulation protocols for cochlear implants can vary among individuals, and determining the most effective parameters for each patient remains a challenge.
@@ -47,7 +48,7 @@ Contributions to this project are welcome. If you would like to contribute or ha
 
 ## License
 This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Please review the license file for more details.
-[Prueba](## Introduction)
+[Prueba](#Introduction)
 
 ## References
 
