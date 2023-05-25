@@ -15,13 +15,19 @@ The goal of this thesis project is to conduct a comprehensive simulation study o
 ![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/7668d2eb-0d22-475f-ba36-a49952e7c241)
 
 
-## Repository Structure
-This repository contains the following resources:
+## State of the art
+The procedure followed to obtain the simulation and results on this work was:
 
-**Code:**  The `code` directory consists of the source code used for the simulations and data analysis. It includes scripts written in Python and any necessary dependencies.
+**Design of the models of the cochlea from cadaverical samples:** Hector firstly modelled the chocleas from different cadaveric simples, since we are all different the structures of our choclea may be diverse, so he tried to obtain the máximum number of samples that he could get.
 
 
- **Data**: The `data` directory contains the datasets used in the simulation study. This includes anatomical models, electrode configurations, and other relevant data files.
+
+
+ **Mesh**: Once Hèctor obatined all the models he did the emsh of the different structures that form the cochlea and also he designed the boundary conditions to perform the simulations by using the finite element methodology.
+ Here we have some of the equations that Hèctor used, in this case the Maxwell's equations.
+ 
+ ![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8432e5c2-9c7e-4db1-a2ad-b462df414d89)
+
  
  
 **Results**: The `results` directory contains the outcomes of the simulations and analysis. It includes visualizations, graphs, and any statistical findings obtained during the research.
