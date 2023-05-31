@@ -26,8 +26,11 @@ The procedure followed to obtain the simulation and results on this work was:
 
  **Mesh**: Once Hèctor obatined all the models he did the emsh of the different structures that form the cochlea and also he designed the boundary conditions to perform the simulations by using the finite element methodology.
  Here we have some of the equations that Hèctor used, in this case the Maxwell's equations.
- 
- ![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8432e5c2-9c7e-4db1-a2ad-b462df414d89)
+ <p align="center">
+  <img src=" https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8432e5c2-9c7e-4db1-a2ad-b462df414d89">
+<p />
+
+
 
  
  
