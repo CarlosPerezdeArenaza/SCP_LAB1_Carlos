@@ -47,9 +47,6 @@ To replicate the simulations or explore the findings of this project, please ref
 ## Code
 The code that is published on this repository is the sample code that we can find on the home page of Github, since I couldn't have any access to the code used for performing the different simulations.
 
-## Contributions
-Contributions to this project are welcome. If you would like to contribute or have any suggestions, please feel free to open an issue or submit a pull request. Your input and feedback are highly appreciated.
-
 ## License
 This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Please review the license file for more details.
 
