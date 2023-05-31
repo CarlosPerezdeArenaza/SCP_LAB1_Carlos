@@ -30,19 +30,17 @@ The procedure followed to obtain the simulation and results on this work was:
  
 ![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8b405860-0356-4b1c-a858-5c95001f0cb9)
 
+**Implementation of the nerves into the model**:Once we had his geometry properly defined he implemented 1000 nerves into his model that were the objects of his stimulation. This number of nerves were the bare mínimum to obtain reliable results on his simulations since there are more tan 30000 nerves on our chocleas he couldn’t modell all of them.
+
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/f523f4a6-e704-4b79-a056-7532d4624576)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/06f9d53a-6dd3-4970-a3a0-390679cec509)
 
 
 
  
  
-**Results**: The `results` directory contains the outcomes of the simulations and analysis. It includes visualizations, graphs, and any statistical findings obtained during the research.
-
-
-**Documentation**: The `documentation` directory consists of additional documentation related to the project, such as the thesis paper, research methodology, and any supplementary materials.
-
-
-## Getting Started
-To replicate the simulations or explore the findings of this project, please refer to the specific instructions provided in the respective directories. Make sure to have the required dependencies installed and follow the guidelines for proper data handling and analysis.
+**Results**: For the last part of the Project he generated 3 different types of electrical stimulations and verified his work using other articles, and obtained a cocnlusion by the comparison of his results with the other studies, The conclusions that Hector came up with after his TFG were that his simulation produced great results with the monopolar stimuli but the other stimulation protocols didn’t produced the expected results in comparison with the results in phD tesis of Rami Saba.
+His final conclusión was that his monopolar results were good enough to try to work on other projects by following hus protocol but also that he needed to find another approach to simulate correctly the bipolar and tripolar electrical stimulations.
 
 ## Code
 The code that is published on this repository is the sample code that we can find on the home page of Github, since I couldn't have any access to the code used for performing the different simulations.
