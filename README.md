@@ -26,9 +26,10 @@ The procedure followed to obtain the simulation and results on this work was:
 
  **Mesh**: Once Hèctor obatined all the models he did the emsh of the different structures that form the cochlea and also he designed the boundary conditions to perform the simulations by using the finite element methodology.
  Here we have some of the equations that Hèctor used, in this case the Maxwell's equations.
- <p align="center">
-  <img src=" https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8432e5c2-9c7e-4db1-a2ad-b462df414d89">
-<p />
+ 
+ 
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/8b405860-0356-4b1c-a858-5c95001f0cb9)
+
 
 
 
@@ -51,9 +52,13 @@ Contributions to this project are welcome. If you would like to contribute or ha
 
 ## License
 This project is licensed under the CC-BY-NC or CC-BY-NC-SA also known as Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Please review the license file for more details.
-[Prueba](#Introduction)
+
 
 ## References
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/175104f4-effa-4874-bf03-3ce559a21068)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/07ade8d5-5f65-4a90-b9c4-c0e7f56570a4)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/28c683fe-3a1d-422d-bfa3-05dc01e238c1)
+![image](https://github.com/CarlosPerezdeArenaza/SCP_LAB1_Carlos/assets/132482596/c61ee69f-ab5c-4802-a9d8-52096bbf00bc)
 
 
 
